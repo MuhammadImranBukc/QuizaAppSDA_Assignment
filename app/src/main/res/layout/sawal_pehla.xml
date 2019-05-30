@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/txt_color"
+    android:orientation="vertical"
+    tools:context=".PehlaSawal">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/bg"
+        android:gravity="center"
+        android:paddingTop="30dp"
+        android:text="@string/Naam"
+        android:textColor="@color/txt_color"
+        android:textSize="32sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_horizontal"
+        android:paddingTop="40dp"
+        android:text="@string/pehla_sawal"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <RadioGroup
+        android:id="@+id/Group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        android:gravity="start">
+
+        <RadioButton
+            android:id="@+id/A1q1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mamnoon Hussain"
+            android:layout_margin="10dp"
+            android:textSize="22sp" />
+
+        <RadioButton
+            android:id="@+id/A1q2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Aarif Alvi"
+            android:layout_margin="10dp"
+            android:textSize="22sp" />
+
+        <RadioButton
+            android:id="@+id/A1q3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Zardari"
+            android:textSize="22sp" />
+    </RadioGroup>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/nextbtn"
+        android:onClick="nextA1"
+        android:padding="10dp"
+        android:text="@string/next"
+        android:textSize="24sp" />
+
+
+</LinearLayout>

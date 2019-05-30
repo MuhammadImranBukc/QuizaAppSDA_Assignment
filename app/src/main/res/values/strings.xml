@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QuizappSDA</string>
+    <string name="Naam">Kon Bany Ga Arab Pati</string>
+    <string name="next">Agla Sawal</string>
+    <string name="pehla_sawal">Pehla Sawal 10 Crore k liye   :
+        Pakistan ka Sadar(President) kon h?</string>
+    <string name="dosra_sawal">Dosra Sawal 20 Crore k liye   :
+        Pakistan ka Wazir-e-Azam(Prime Minister) kon h?</string>
+    <string name="tesra_sawal">Tesra Sawal 15 Crore k liye   :
+        Pakistan ka Darul Khalifa(Capital) konsa h?</string>
+    <string name="chotha_sawal">Chotha Sawal 40 Crore k liye   :
+        Pakistan ka qoumi shair(National-poet) kon h?</string>
+    <string name="panchwan_sawal">Panchwan Sawal 3 Crore k liye   :
+        Pakistan ka qoumi janwar(National-animal) konsa h?</string>
+    <string name="chata_sawal">Chata Sawal 23 Crore k liye   :
+        Pakistan ka qoumi prinda(National-bird) konsa h?</string>
+    <string name="satwan_sawal">Satwan Sawal 9.7 Crore k liye   :
+        Pakistan ka qoumi phal(National-fruit) konsa h?</string>
+    <string name="aathwan_sawal">Aathwan Sawal 17 Crore k liye   :
+        Pakistan ka  qoumi phool(National-flower) konsa h?</string>
+    <string name="nawan_sawal">Nawan Sawal 43 Crore k liye   :
+        Pakistan ki qoumi machli(National-Fish) konsi kon h?</string>
+
+</resources>
